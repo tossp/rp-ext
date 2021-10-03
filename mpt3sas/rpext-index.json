@@ -1,6 +1,6 @@
 
 {
-  "id": "mpt3sas",
+  "id": "pocopico.mpt3sas",
   "url": "https://raw.githubusercontent.com/tossp/rp-ext/master/mpt3sas/rpext-index.json",
   "info": {
     "name": "mpt3sas",
@@ -10,11 +10,11 @@
     "help_url": "<todo>"
   },
   "releases": {
-    "ds3615xs_25556": "https://raw.githubusercontent.com/tossp/rp-ext/master/mpt3sas/releases/ds3615xs_41222.json",
-    "ds3615xs_41222": "https://raw.githubusercontent.com/tossp/rp-ext/master/mpt3sas/releases/ds3615xs_25556.json",
+    "ds3615xs_25556": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mpt3sas/releases/ds3615xs_25556.json",
+    "ds3615xs_41222": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mpt3sas/releases/ds3615xs_41222.json",
     "ds918p_42218": "https://raw.githubusercontent.com/tossp/rp-ext/master/mpt3sas/releases/ds918p_41890.json",
     "ds918p_41890": "https://raw.githubusercontent.com/tossp/rp-ext/master/mpt3sas/releases/ds918p_41890.json",
-    "ds918p_25556": "https://raw.githubusercontent.com/tossp/rp-ext/master/mpt3sas/releases/ds918p_25556.json"
+    "ds918p_25556": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mpt3sas/releases/ds918p_25556.json"
   }
 }
 

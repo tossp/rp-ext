@@ -11,7 +11,7 @@
     {
       "name": "check-mpt3sas.sh",
       "url": "https://raw.githubusercontent.com/tossp/rp-ext/master/mpt3sas/src/check-mpt3sas.sh",
-      "sha256": "F5870762F02E400F1E296DA79A37150D4117D8E4AF2583BE4D4A192541A1E5A6",
+      "sha256": "f5870762f02e400f1e296da79a37150d4117d8e4af2583be4d4a192541a1e5a6",
       "packed": false
     }
   ],
